@@ -12,6 +12,7 @@ namespace ejercicio1
 
         {
             Console.WriteLine("Hola mundo soy Jammel");
+            Console.WriteLine("grupo de fundamentos de algoritmos");
         }
     }
 }
